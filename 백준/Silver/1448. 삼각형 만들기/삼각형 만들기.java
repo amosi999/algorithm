@@ -1,7 +1,6 @@
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Scanner;
 
 public class Main {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
